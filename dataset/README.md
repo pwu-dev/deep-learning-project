@@ -5,7 +5,9 @@
 
 ## Partition des données en ensemble d'entrainement, de validation et de test
 - <b>Partition</b> : 80% entraînement, 10% validation, 10% test
+
 ### Choix des données pour la validation et le test pour :
+- Avoir au moins une photo réelle pour chaque classes
 - <b>Beurre</b> : 
 - <b>Crème dessert</b> :
 - <b>Eau</b> :
@@ -16,10 +18,10 @@
 - <b>Lait</b> : pack de 6 en bouteille, pack de 6 en brique, bouteille individuelle, brique individuelle, pack de 10
 - <b>Maïs</b> :
 - <b>Oeufs</b> : boîte de 4, boîte de 6, boîte de 12, boîte de 20
-- <b>Pâtes</b> :
-- <b>Petits-pois</b> :
+- <b>Pâtes</b> : pâtes cru seulement, emballage en carton, emballage en sachet
+- <b>Petits-pois</b> : conserve, surgelé, bocal ?
 - <b>Poissons</b> : thon, maquereau, sardine, pack 
-- <b>Riz</b> :
+- <b>Riz</b> : riz cru seulement, pas de sous-classe
 - <b>Sodas</b> :
 - <b>Soupes</b> :
 - <b>Viande rouge</b> : saucisse, haché de viande, viande emballée, viande sur planche
