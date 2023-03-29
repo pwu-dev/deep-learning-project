@@ -4,14 +4,6 @@ from PIL import Image
 import numpy as np
 import os
 
-
-#Pour l'augmentation des données, il suffit de rajouter les couches suivantes dans notre modèle
-""" 
-    layers.RandomFlip("horizontal",input_shape=(img_height,img_width,3)),
-    layers.RandomRotation(0.1),
-    layers.RandomZoom(0.1),
-) """
-
 CLASSES = ["beurre", "cremes-dessert", "eaux", "fromages", "haricots-verts", 
            "huiles-cuisson", "jus-fruits", "lait", "mais", "oeufs", 
            "pates", "petits-pois", "poissons", "riz", "sodas", 
