@@ -4,4 +4,4 @@ Riz : De même, il fallait représenter les marques présentes dans le dataset �
 
 Petits pois : Ici, il y a trois types de produits : surgelés, bocal, boite de conserve. J'ai essayé de les représenter à parts égales.
 
-Mais : De même, il fallait représenter les bocaux et les boîtes de conserves.
+Mais : De même, il fallait représenter les bocaux et les boîtes de conserves, et les différents visuels similaires.
