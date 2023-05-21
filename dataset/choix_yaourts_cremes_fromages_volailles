@@ -1,0 +1,21 @@
+yaourts-laitiers:
+	fruits
+	nature
+	sans couvert
+
+
+creme dessert:
+	cote marron   
+		jaune  
+    couvert total  
+
+fromages:
+	rond
+	longueur
+	carré
+	multiples
+
+volailles:
+	multiple (environement)
+	entier
+	blancs
