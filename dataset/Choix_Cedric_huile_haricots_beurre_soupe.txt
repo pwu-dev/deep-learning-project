@@ -1,0 +1,7 @@
+Beurre : Pour le choix des bases de validation et de test, j'ai essayer de prendre des images variées pour couvrir l'ensemble des différents emballages cad soit un bloc rectangulaire, soit une boite avec un couvercle.
+
+Haricots : Pour le choix des bases de validation et de test, j'ai essayer de prendre des images variées pour couvrir l'ensemble des différents emballages qui sont les boites de conserve, les bocaux ainsi que les sachets surgelés.
+
+Huile : Pour le choix des bases de validation et de test, j'ai essayer de prendre des images variées pour couvrir l'ensemble des différents emballages ainsi que les différentes formes de bouteilles telles que les bidons, les bouteilles en verre (souvent d'huile d'olive, plus longues et fines) ainsi que les bouteille plastiques de différents formats.
+
+Soupe : Pour le choix des bases de validation et de test, j'ai essayer de prendre des images variées pour couvrir l'ensemble des différents emballages avec différentes couleurs de soupe. Ainsi il y a des conserves et des briques de soupe avec différents contenus.
