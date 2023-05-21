@@ -1,0 +1,7 @@
+Pâtes : Il y avait principalement 2 marques de pâtes et quelques marques annexes. Il était donc important de représenter à part à peu près égales les pâtes Panzani et Barilla, ainsi qu'une ou deux images pour les marques annexes. De plus, j'ai essayé de modifier sur chaque image sélectionnée le type de pâtes (coquillettes, macaroni...)
+
+Riz : De même, il fallait représenter les marques présentes dans le dataset à part égale : Uncle bens, Lustucru, Carrefour... et représenter tous les types de riz : Basmati, Thai, long grain...
+
+Petits pois : Ici, il y a trois types de produits : surgelés, bocal, boite de conserve. J'ai essayé de les représenter à parts égales.
+
+Mais : De même, il fallait représenter les bocaux et les boîtes de conserves.
