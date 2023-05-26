@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 dataset/entrainement/.DS_Store
 dataset/.DS_Store
+.gitignore
+.gitignore
+dataset/.DS_Store
+dataset/entrainement/poissons/.DS_Store
