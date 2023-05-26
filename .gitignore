@@ -133,3 +133,4 @@ dataset/.DS_Store
 .gitignore
 dataset/.DS_Store
 dataset/entrainement/poissons/.DS_Store
+dataset/entrainement/viandes-rouges/.DS_Store
